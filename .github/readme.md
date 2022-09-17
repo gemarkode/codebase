@@ -15,9 +15,9 @@
     <br />
     <a href="https://hacktoberfest.com/">Hacktoberfest</a>
     ·
-    <a href="https://www.gemarkode.or.id">Gemar Kode</a>
-    ·
     <a href="https://www.digitalocean.com/">DigitalOcean</a>
+    ·
+    <a href="https://www.gemarkode.or.id">Gemar Kode</a>
   </p>
 </div>
 
