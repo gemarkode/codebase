@@ -1,4 +1,4 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/71133728?s=200&v=4" />
+   <img align="center" width="80%" src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/hacktoberfest.png" />
    <h1 align="center">Coming Soon</h1>
 </p>
