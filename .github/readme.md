@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/hacktoberfest.png" alt="Logo" width="50%">
   </a>
 
-  <h1 align="center">Gemar Code x Hacktoberfest 2022</h3>
+  <h1 align="center">Gemar Code Hacktoberfest 2022</h3>
 
   <p align="center">
     <a href="https://www.gemarkode.or.id/hacktoberfest/"><strong>Explore this event »</strong></a>
