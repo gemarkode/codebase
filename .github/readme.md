@@ -87,4 +87,6 @@ SOFTWARE.
 <!-- Footer -->
 ## Footer
 
-This event was created by the Gemar Kode Open Source community. This event has followed the rules and conditions set by [Hacktoberfest](https://hacktoberfest.com/events/).
+This event was created by the Gemar Kode Open Source community. 
+
+This event has followed the rules and conditions set by [Hacktoberfest](https://hacktoberfest.com/events/).
