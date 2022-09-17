@@ -34,14 +34,13 @@
     <a href="#how-to-contribute">How to Contribute</a>
     </li>
     <li><a href="#speaker-and-facilitator">Speaker and Facilitator</a></li>
+        <li><a href="#contributor-list">Contributor List</a></li>
      <li>
     <a href="#license">License</a>
     </li>
     <li><a href="#footer">Footer</a></li> 
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -58,9 +57,10 @@ Coming Soon
 
 Coming Soon
 
-<!-- Contributor -->
-## Contributor
-Coming Soon
+<!-- Contributor List -->
+## Contributor List
+
+![](https://contrib.rocks/image?repo=gemarkode/hacktoberfest)
 
 <!-- LICENSE -->
 ## License
