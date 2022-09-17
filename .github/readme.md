@@ -58,6 +58,10 @@ Coming Soon
 
 Coming Soon
 
+<!-- Contributor -->
+## Contributor
+Coming Soon
+
 <!-- LICENSE -->
 ## License
 ```
