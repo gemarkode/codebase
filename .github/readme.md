@@ -13,6 +13,10 @@
     <a href="https://www.gemarkode.or.id/hacktoberfest/"><strong>Explore this event »</strong></a>
     <br />
     <br />
+    <img src="https://img.shields.io/github/forks/gemarkode/hacktoberfest">
+     <img src="https://img.shields.io/github/stars/gemarkode/hacktoberfest">
+    <br />
+    <br />
     <a href="https://hacktoberfest.com/">Hacktoberfest</a>
     ·
     <a href="https://www.digitalocean.com/">DigitalOcean</a>
