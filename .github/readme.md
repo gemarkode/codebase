@@ -1,4 +1,5 @@
 [![CD](https://github.com/gemarkode/hacktoberfest/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/gemarkode/hacktoberfest/actions/workflows/pages.yml)
+[![Contributors](https://github.com/gemarkode/hacktoberfest/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/gemarkode/hacktoberfest/actions/workflows/main.yml)
 
 <!-- PROJECT LOGO -->
 <br />
