@@ -64,7 +64,8 @@ Coming Soon
 <!-- Contributor List -->
 ## Contributor List
 
-![](https://contrib.rocks/image?repo=gemarkode/hacktoberfest)
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 
 <!-- LICENSE -->
 ## License
