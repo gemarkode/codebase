@@ -24,9 +24,6 @@
     <a href="https://www.gemarkode.or.id">Gemar Kode</a>
   </p>
 </div>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
