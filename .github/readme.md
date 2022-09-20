@@ -1,5 +1,4 @@
-[![CD](https://github.com/gemarkode/hacktoberfest/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/gemarkode/hacktoberfest/actions/workflows/pages.yml)
-[![Contributors](https://github.com/gemarkode/hacktoberfest/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/gemarkode/hacktoberfest/actions/workflows/main.yml)
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -17,6 +16,8 @@
     <img src="https://img.shields.io/github/forks/gemarkode/hacktoberfest">
      <img src="https://img.shields.io/github/stars/gemarkode/hacktoberfest">
      <img src="https://img.shields.io/badge/Hacktoberfest-2022-blue">
+     <img src="https://github.com/gemarkode/hacktoberfest/actions/workflows/pages.yml/badge.svg?branch=main">
+     <img src="https://github.com/gemarkode/hacktoberfest/actions/workflows/main.yml/badge.svg?branch=main">
     <br />
     <br />
     <a href="https://hacktoberfest.com/">Hacktoberfest</a>
