@@ -13,17 +13,17 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/shinqy">
-            <img src="https://avatars.githubusercontent.com/u/91445296?v=4" width="100;" alt="shinqy"/>
-            <br />
-            <sub><b>ShinDwQy</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/septiynp">
             <img src="https://avatars.githubusercontent.com/u/113845016?v=4" width="100;" alt="septiynp"/>
             <br />
             <sub><b>Septiyani Putri</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/shinqy">
+            <img src="https://avatars.githubusercontent.com/u/91445296?v=4" width="100;" alt="shinqy"/>
+            <br />
+            <sub><b>ShinDwQy</b></sub>
         </a>
     </td></tr>
 </table>

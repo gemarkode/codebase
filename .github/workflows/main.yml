@@ -15,6 +15,6 @@ jobs:
             - name: Contribute List
               uses: akhilmhdh/contributors-readme-action@master
               with:
-                  readme_path: ".github/readme.md"
+                  readme_path: "CONTRIBUTORS.md"
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
