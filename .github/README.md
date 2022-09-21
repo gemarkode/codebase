@@ -25,6 +25,11 @@ Coming Soon
 
 Coming Soon
 
+<!-- Contributor List -->
+## Contributors List
+
+Coming soon
+
 <!-- Our Community -->
 ## Our Community
 
@@ -41,11 +46,6 @@ Coming Soon
     </a>
 </p>
 
-<!-- Contributor List -->
-## Contributors List
-
-Coming soon
-
 <!-- LICENSE -->
 ## License
 
@@ -56,10 +56,10 @@ This project is licensed under the [GNU General Public License v3.0](https://git
 
 This event has followed the rules and conditions from [Hacktoberfest](https://hacktoberfest.com/events/).
 
-#### Badge
+#### Hacktoberfest Badge
 
 <p>
-    <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/hacktoberfest.png">
+    <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/badge.png" width="50px">
 </p>
 
 #### Repository Status
