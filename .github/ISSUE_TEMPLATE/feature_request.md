@@ -3,7 +3,7 @@ name: Question
 about: Suggest an idea for this project
 title: ''
 labels: question
-assignees: riswanda776, rizkytegar, shinqy
+assignees: rizkytegar, shinqy, septiynp
 
 ---
 
