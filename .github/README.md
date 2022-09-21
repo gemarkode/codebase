@@ -65,6 +65,6 @@ This event has followed the rules and conditions from [Hacktoberfest](https://ha
 #### Repository Status
 
 <p>
-    <img src="https://github.com/gemarkode/hacktoberfest/actions/workflows/pages.yml/badge.svg?branch=main">
-    <img src="https://github.com/gemarkode/hacktoberfest/actions/workflows/main.yml/badge.svg?branch=main">
+    <img src="https://github.com/gemarkode/hacktoberfest/actions/workflows/pages.yml/badge.svg">
+    <img src="https://github.com/gemarkode/hacktoberfest/actions/workflows/main.yml/badge.svg">
 </p>
