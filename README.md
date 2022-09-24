@@ -1,3 +1,4 @@
+
 <div align="center">
     <h1 align="center">👋 Gemar Kode Hacktoberfest 2022</h3>
         <a href="https://www.gemarkode.or.id/hacktoberfest/">
@@ -7,7 +8,8 @@
         <br />
         <br />
         <p align="center">
-            <p><strong>Explore this event </strong></p>
+            <p>You can contribute to this Repository <strong>(from October 2, 2022 to October 30, 2022)</strong>.</p>
+            <strong>Explore : </strong>
             <a href="https://hacktoberfest.com/events/">Hacktoberfest Event</a>
             ·
             <a href="https://www.gemarkode.or.id/hacktoberfest/">Gemar Kode Hacktoberfest</a>
@@ -15,23 +17,30 @@
 </div>
 <hr>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT THE EVENT -->
+## About The Event
 
-Coming Soon
+Welcome to the open source festival celebrated during the month of October every year, encouraging people around the world to actively participate and contribute to open source projects. 
 
 <!-- How to Contribute -->
 ## How to Contribute
 
-Coming Soon
+Please read the [Code of Conduct](https://github.com/gemarkode/hacktoberfest/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
 <!-- Contributor List -->
 ## Contributors List
 
-Coming soon
+See our list of contributors at :
+
+- [CONTRIBUTORS.md](https://github.com/gemarkode/hacktoberfest/blob/main/CONTRIBUTORS.md)
+- [Our Website](https://hacktoberfest.gemarkode.or.id/contributors)
+
+We would like to thank those who have contributed to this event.
 
 <!-- Our Community -->
 ## Our Community
+
+We are an inclusive open source community from Indonesia.
 
 <p>
     <a href="https://discord.com/invite/aC9KuZ3GWC" target="_blank">
@@ -49,7 +58,7 @@ Coming soon
 <!-- LICENSE -->
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](https://github.com/rizkytegar/hacktoberfest/blob/main/LICENSE)
+This project is licensed under the [GNU General Public License v3.0](https://github.com/gemarkode/hacktoberfest/blob/main/LICENSE)
 
 <!-- Footer -->
 ## Footer
