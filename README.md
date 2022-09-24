@@ -1,8 +1,8 @@
 <div align="center">
     <h1 align="center">👋 Gemar Kode Hacktoberfest 2022</h3>
         <a href="https://www.gemarkode.or.id/hacktoberfest/">
-            <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/badge.png"
-                alt="Logo" width="50%">
+            <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/barner-hacktoberfest.png"
+                alt="Logo" width="100%">
         </a>
         <br />
         <br />
