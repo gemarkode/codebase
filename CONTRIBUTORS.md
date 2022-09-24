@@ -4,7 +4,7 @@
 
 ## Contributors
 
-<!-- readme: contributors,collaborators,ImgBotApp/- -start -->
+<!-- readme: contributors,collaborators,ImgBotApp/ -start -->
 <table>
 <tr>
     <td align="center">
