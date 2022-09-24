@@ -4,7 +4,7 @@
 
 ## Contributors
 
-<!-- readme: contributors,ImgBotApp/- -start -->
+<!-- readme: contributors,collaborators,ImgBotApp/- -start -->
 <table>
 <tr>
     <td align="center">
@@ -29,7 +29,7 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ImgBotApp">
+        <a href="https://github.com/ImgBotApp/-">
             <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="100;" alt="ImgBotApp"/>
             <br />
             <sub><b>Imgbot</b></sub>
