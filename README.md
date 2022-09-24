@@ -16,8 +16,6 @@
 </div>
 <hr>
 
-<br>
-
 <!-- ABOUT THE EVENT -->
 ## About The Event
 
@@ -28,8 +26,6 @@
 #### Gemar Kode Event
 
 Coming Soon
-
-<br>
 
 <!-- How to Contribute -->
 ## How to Contribute
@@ -52,8 +48,6 @@ Coming Soon
 
 Please read the [Code of Conduct](https://github.com/gemarkode/hacktoberfest/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
-<br>
-
 <!-- Contributor List -->
 ## Contributors List
 
@@ -61,8 +55,6 @@ We would like to thank those who have contributed to this event. See our list of
 
 - [CONTRIBUTORS.md](https://github.com/gemarkode/hacktoberfest/blob/main/CONTRIBUTORS.md)
 - [Our Website](https://hacktoberfest.gemarkode.or.id/contributors)
-
-<br>
 
 <!-- Our Community -->
 ## Our Community
@@ -88,8 +80,6 @@ We are an inclusive open source community from Indonesia.
     <img title="GitHub" src="https://raw.githubusercontent.com/septiynp/hacktoberfest/main/.github/assets/GitHub-Logo.png" width="100px"> &nbsp;
     <img title="Hacktoberfest" src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/hacktoberfest.png" width="90px">
 </p>
-
-<br>
 
 <!-- Footer -->
 ## Footer
