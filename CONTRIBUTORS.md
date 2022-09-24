@@ -4,14 +4,7 @@
 
 ## Contributors
 
-<!-- readme: ImgBotApp/- -start -->
-<table>
-</table>
-<!-- readme: ImgBotApp/- -end -->
-
-## Contributors
-
-<!-- readme: collaborators,contributors -start -->
+<!-- readme: contributors,ImgBotApp/- -start -->
 <table>
 <tr>
     <td align="center">
@@ -43,7 +36,7 @@
         </a>
     </td></tr>
 </table>
-<!-- readme: collaborators,contributors -end -->
+<!-- readme: contributors,ImgBotApp/- -end -->
 
 ## Feature Thank Away
 
