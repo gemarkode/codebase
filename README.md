@@ -1,4 +1,3 @@
-
 <div align="center">
     <h1 align="center">👋 Gemar Kode Hacktoberfest 2022</h3>
         <a href="https://www.gemarkode.or.id/hacktoberfest/">
@@ -20,57 +19,53 @@
 <br>
 
 <!-- ABOUT THE EVENT -->
-## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> About The Event
+## About The Event
 
-### About Hacktoberfest
+#### Hacktoberfest
 
-Hacktoberfest is an open source festival celebrated during the month of October every year, encouraging people around the world to actively participate and contribute to open source projects.
+[Hacktoberfest](https://hacktoberfest.com/) is an open source festival celebrated during the month of October every year, encouraging people around the world to actively participate and contribute to open source projects.
 
-### About Gemar Kode Event
+#### Gemar Kode Event
 
 Coming Soon
-
-### About This Repository
-
-Coming soon
 
 <br>
 
 <!-- How to Contribute -->
-## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> How to Contribute
+## How to Contribute
 
-### Participate In Hacktoberfest
+You can share your project in this repository, Please follow the guidelines below to contribute.
 
-Coming Soon
-
-### Contribute to This Project
+#### Participate In Hacktoberfest
 
 Coming Soon
 
-### Please Read Our Rules Carefully
+#### Contribute to This Project
 
 Coming Soon
 
-### Code of Conduct
+#### Rules
+
+Coming Soon
+
+#### Code of Conduct
 
 Please read the [Code of Conduct](https://github.com/gemarkode/hacktoberfest/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
 <br>
 
 <!-- Contributor List -->
-## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> Contributors List
+## Contributors List
 
-See our list of contributors at :
+We would like to thank those who have contributed to this event. See our list of contributors at :
 
 - [CONTRIBUTORS.md](https://github.com/gemarkode/hacktoberfest/blob/main/CONTRIBUTORS.md)
 - [Our Website](https://hacktoberfest.gemarkode.or.id/contributors)
 
-We would like to thank those who have contributed to this event.
-
 <br>
 
 <!-- Our Community -->
-## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> Our Community
+## Our Community
 
 We are an inclusive open source community from Indonesia.
 
@@ -87,28 +82,25 @@ We are an inclusive open source community from Indonesia.
     </a>
 </p>
 
-<br>
+#### Support And Partner
 
-<!-- LICENSE -->
-## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> License
-
-This project is licensed under the [GNU General Public License v3.0](https://github.com/gemarkode/hacktoberfest/blob/main/LICENSE)
+<p>
+    <img title="GitHub" src="https://raw.githubusercontent.com/septiynp/hacktoberfest/main/.github/assets/GitHub-Logo.png" width="100px"> &nbsp;
+    <img title="Hacktoberfest" src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/hacktoberfest.png" width="90px">
+</p>
 
 <br>
 
 <!-- Footer -->
-## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> Footer
+## Footer
 
 This event has followed the rules and conditions from [Hacktoberfest](https://hacktoberfest.com/events/).
 
-### Hacktoberfest Badge
+#### License
 
-<p>
-    <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/badge.png" width="50px">
-    <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/badge2.png" width="50px">
-</p>
+This project is licensed under the [GNU General Public License v3.0](https://github.com/gemarkode/hacktoberfest/blob/main/LICENSE)
 
-### Repository Status
+#### Repository Status
 
 <p>
     <img src="https://github.com/gemarkode/hacktoberfest/actions/workflows/pages.yml/badge.svg">
