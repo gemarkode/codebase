@@ -78,7 +78,7 @@ We are an inclusive open source community from Indonesia.
 
 <p>
     <img title="GitHub" src="https://raw.githubusercontent.com/septiynp/hacktoberfest/main/.github/assets/GitHub-Logo.png" width="100px"> &nbsp;
-    <img title="Hacktoberfest" src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/hacktoberfest.png" width="90px">
+    <img title="Hacktoberfest" src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/badge.png" width="90px">
 </p>
 
 <!-- Footer -->
