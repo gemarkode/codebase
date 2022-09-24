@@ -60,6 +60,7 @@ This event has followed the rules and conditions from [Hacktoberfest](https://ha
 
 <p>
     <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/badge.png" width="50px">
+    <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/badge2.png" width="50px">
 </p>
 
 #### Repository Status
