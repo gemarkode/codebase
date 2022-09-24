@@ -2,7 +2,7 @@
 <p align="center">Gemar Kode Hacktoberfest 2022</p>
 <br />
 
-<!-- readme: contributors,imgbotapp/-,ImgBotApp/-,Imgbot/- -start -->
+<!-- readme: contributors,septiynp/- -start -->
 <table>
 <tr>
     <td align="center">
@@ -34,4 +34,4 @@
         </a>
     </td></tr>
 </table>
-<!-- readme: contributors,imgbotapp/-,ImgBotApp/-,Imgbot/- -end -->
+<!-- readme: contributors,septiynp/- -end -->
