@@ -5,7 +5,6 @@
                 alt="Logo" width="100%">
         </a>
         <br />
-        <br />
         <p align="center">
             <p>You can contribute to this Repository <strong>(from October 2, 2022 to October 30, 2022)</strong>.</p>
             <strong>Explore : </strong>
@@ -77,8 +76,7 @@ We are an inclusive open source community from Indonesia.
 #### Support And Partner
 
 <p>
-    <img title="GitHub" src="https://raw.githubusercontent.com/septiynp/hacktoberfest/main/.github/assets/GitHub-Logo.png" width="100px"> &nbsp;
-    <img title="Hacktoberfest" src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/badge.png" width="90px">
+    <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/support.png" width="300px">
 </p>
 
 <!-- Footer -->
