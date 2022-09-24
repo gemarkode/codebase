@@ -36,7 +36,7 @@
         </a>
     </td></tr>
 </table>
-<!-- readme: contributors,ImgBotApp/- -end -->
+<!-- readme: contributors,collaborators,ImgBotApp/- -end -->
 
 ## Feature Thank Away
 
