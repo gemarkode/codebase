@@ -17,6 +17,8 @@
 </div>
 <hr>
 
+<br>
+
 <!-- ABOUT THE EVENT -->
 ## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> About The Event
 
@@ -32,7 +34,6 @@ Coming Soon
 
 Coming soon
 
-<br>
 <br>
 
 <!-- How to Contribute -->
@@ -55,7 +56,6 @@ Coming Soon
 Please read the [Code of Conduct](https://github.com/gemarkode/hacktoberfest/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
 <br>
-<br>
 
 <!-- Contributor List -->
 ## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> Contributors List
@@ -67,7 +67,6 @@ See our list of contributors at :
 
 We would like to thank those who have contributed to this event.
 
-<br>
 <br>
 
 <!-- Our Community -->
@@ -89,14 +88,12 @@ We are an inclusive open source community from Indonesia.
 </p>
 
 <br>
-<br>
 
 <!-- LICENSE -->
 ## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> License
 
 This project is licensed under the [GNU General Public License v3.0](https://github.com/gemarkode/hacktoberfest/blob/main/LICENSE)
 
-<br>
 <br>
 
 <!-- Footer -->
