@@ -18,17 +18,47 @@
 <hr>
 
 <!-- ABOUT THE EVENT -->
-## About The Event
+## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> About The Event
 
-Welcome to the open source festival celebrated during the month of October every year, encouraging people around the world to actively participate and contribute to open source projects. 
+### About Hacktoberfest
+
+Hacktoberfest is an open source festival celebrated during the month of October every year, encouraging people around the world to actively participate and contribute to open source projects.
+
+### About Gemar Kode Event
+
+Coming Soon
+
+### About This Repository
+
+Coming soon
+
+<br>
+<br>
 
 <!-- How to Contribute -->
-## How to Contribute
+## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> How to Contribute
+
+### Participate In Hacktoberfest
+
+Coming Soon
+
+### Contribute to This Project
+
+Coming Soon
+
+### Please Read Our Rules Carefully
+
+Coming Soon
+
+### Code of Conduct
 
 Please read the [Code of Conduct](https://github.com/gemarkode/hacktoberfest/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
+<br>
+<br>
+
 <!-- Contributor List -->
-## Contributors List
+## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> Contributors List
 
 See our list of contributors at :
 
@@ -37,8 +67,11 @@ See our list of contributors at :
 
 We would like to thank those who have contributed to this event.
 
+<br>
+<br>
+
 <!-- Our Community -->
-## Our Community
+## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> Our Community
 
 We are an inclusive open source community from Indonesia.
 
@@ -55,24 +88,30 @@ We are an inclusive open source community from Indonesia.
     </a>
 </p>
 
+<br>
+<br>
+
 <!-- LICENSE -->
-## License
+## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> License
 
 This project is licensed under the [GNU General Public License v3.0](https://github.com/gemarkode/hacktoberfest/blob/main/LICENSE)
 
+<br>
+<br>
+
 <!-- Footer -->
-## Footer
+## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px"> Footer
 
 This event has followed the rules and conditions from [Hacktoberfest](https://hacktoberfest.com/events/).
 
-#### Hacktoberfest Badge
+### Hacktoberfest Badge
 
 <p>
     <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/badge.png" width="50px">
     <img src="https://raw.githubusercontent.com/gemarkode/hacktoberfest/main/.github/assets/badge2.png" width="50px">
 </p>
 
-#### Repository Status
+### Repository Status
 
 <p>
     <img src="https://github.com/gemarkode/hacktoberfest/actions/workflows/pages.yml/badge.svg">
