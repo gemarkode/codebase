@@ -6,7 +6,7 @@
         </a>
         <br />
         <p align="center">
-            <p>You can contribute to this Repository <strong>(from October 2, 2022 to October 30, 2022)</strong>.</p>
+            <p>You can contribute to this Repository <strong>(from October 4, 2022 to October 30, 2022)</strong>.</p>
             <strong>Explore : </strong>
             <a href="https://hacktoberfest.com/events/">Hacktoberfest Event</a>
             ·
