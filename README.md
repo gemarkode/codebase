@@ -92,5 +92,4 @@ This project is licensed under the [GNU General Public License v3.0](https://git
 
 <p>
     <img src="https://github.com/gemarkode/hacktoberfest/actions/workflows/pages.yml/badge.svg">
-    <img src="https://github.com/gemarkode/hacktoberfest/actions/workflows/main.yml/badge.svg">
 </p>
