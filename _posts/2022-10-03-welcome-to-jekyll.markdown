@@ -4,9 +4,6 @@ title:  "Welcome to Jekyll!"
 date:   2022-10-03 09:39:02 +0700
 categories: jekyll update
 ---
-
-
-
 <pre id="show-json-from-git"></pre>
 
 <script>
