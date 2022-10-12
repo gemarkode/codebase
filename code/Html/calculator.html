@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>.container{
+        width:80%;
+        margin:0 auto;
+        display: block;
+
+
+    }
+
+    .table{
+        width:80%;
+        margin:0 auto;
+        display: table;
+    }
+
+    .left{
+        float:left !important;
+        margin-left:4% !important;
+    }
+    .greybutton{
+        border-radius: 8px;
+        border:1px solid grey;
+        background-color: lightgrey;
+    }
+    .button{
+        float:right;
+        width:30%;
+        font-size:16px;
+        padding:10px 20px;
+        margin: 0 0 3% 3%;
+    }
+
+    .table input[type="number"]{
+        width:100%;
+        margin-bottom: 20px;
+        height:40px;
+        padding-left:20px;
+        color:grey;
+        font-weight:700;
+        font-size:18px;
+    }
+
+    .table .row{
+        width:100%;
+    }
+    .table .col-10{
+        width:80%;
+        float:left;
+    }
+
+    .table .col-2{
+        width:20%;
+        float:left;
+    }
+    .table .col-2 button{
+        width:60%;
+        margin:0 20% 10px 20%;
+        padding:10px 20px;
+        font-size:16px;
+
+    }
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1 style="color:grey">This is a grey calculator</h1>
+    <div class="table">
+        <input class="greybutton" type="number" id="result" disabled>
+        <div class="row">
+            <div class="col-10">
+                <div id="buttons"></div>
+            </div>
+            <div class="col-2">
+                <button class="greybutton" onclick="removeNumber()">C</button>
+                <button class="greybutton" onclick="removeEverything()">AC</button>
+                <button class="greybutton" onclick="addCalculation()">+</button>
+                <button class="greybutton" onclick="addTimes()">*</button>
+                <button class="greybutton" onclick="calculate()">=</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let prevNumber;
+    let result = $('#result');
+    let buttons = $('#buttons');
+
+    $(document).ready(function (){
+        for(let x = 9; x>=0; x--) {
+            if(x === 0){
+                buttons.append("<button class='button left greybutton' onClick='addNumber(" + x + ")'>" + x + "</button>");
+            }else{
+                buttons.append("<button class='button greybutton' onClick='addNumber(" + x + ")'>" + x + "</button>");
+
+            }
+        }
+    });
+
+    function calculate(){
+        result.val(parseInt(prevNumber) + parseInt(result.val()));
+    }
+
+    function addTimes(){
+        if(typeof prevNumber !== 'undefined'){
+            let newValue = parseInt(prevNumber) * parseInt(result.val());
+            prevNumber = newValue;
+        }else{
+            prevNumber = result.val();
+        }
+        result.val("");
+    }
+
+    function addCalculation(){
+        if(typeof prevNumber !== 'undefined'){
+            let newValue = parseInt(prevNumber) + parseInt(result.val());
+            prevNumber = newValue;
+        }else{
+            prevNumber = result.val();
+        }
+        result.val("");
+    }
+
+    function addNumber(number){
+        result.val(result.val()+ number);
+    }
+
+    function removeEverything(){
+        prevNumber = undefined;
+        $('#result').val("");
+    }
+
+    function removeNumber(){
+        let result = $('#result');
+        let newResult = result.val().slice(0,-1);
+        result.val(newResult);
+    }
+</script>
+</body>
+</html>
