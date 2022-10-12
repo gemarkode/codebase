@@ -16,10 +16,10 @@
 
 We are preparing this repo. please upload the code in the ```code``` folder according to the available language category. if language is not available, please open our [issue](https://github.com/gemarkode/Codebase/issues/30).
 
-Please explain the meaning of the code you sent in the PR message.
+<strong>Please explain the meaning of the code you sent in the PR message.</strong>
 
-Please Read [CONTRIBUTING.md](https://github.com/gemarkode/Codebase/blob/main/CONTRIBUTING.md) Before Contributing.
+Please Read [CONTRIBUTING.md](https://github.com/gemarkode/Codebase/blob/main/CONTRIBUTING.md) (coming soon) Before Contributing.
 
 ## Contributors
 
-Please Read [CONTRIBUTORS.md](https://github.com/gemarkode/Codebase/blob/main/CONTRIBUTORS.md).
+Please Read [CONTRIBUTORS.md](https://github.com/gemarkode/Codebase/blob/main/CONTRIBUTORS.md) (coming soon).
