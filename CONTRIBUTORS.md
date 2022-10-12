@@ -27,6 +27,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/FarrosIlman">
+            <img src="https://avatars.githubusercontent.com/u/74756493?v=4" width="100;" alt="FarrosIlman"/>
+            <br />
+            <sub><b>Parrosz</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/riswanda776">
+            <img src="https://avatars.githubusercontent.com/u/35683696?v=4" width="100;" alt="riswanda776"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ImgBotApp">
             <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="100;" alt="ImgBotApp"/>
             <br />
