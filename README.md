@@ -3,6 +3,7 @@
 <p>Codebase is an Open Source Code Snippet. Save Algorithms, code Snippets and Design Pattern examples.</p>
 <br />
 <p align="center">
+<img src="https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg" alt="Open Source Love"/>
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" />
 </p>
