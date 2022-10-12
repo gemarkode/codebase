@@ -1,22 +1,25 @@
 ---
 permalink: /404.html
 layout: default
+title: 404 Not Found
 ---
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-<div class="container">
-  <h1>404</h1>
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+<section class="py-3 mt-5">
+  <div class="bg-white py-5">
+      <div class="container py-5">
+          <div class="row align-items-center">
+              <div class="col-lg-6 px-5 mx-auto"><img src="{{ site.url }}/assets/img/notfound.webp" alt="" class="img-fluid mb-4 mb-lg-0">
+              </div>
+              <div class="col-lg-6">
+                  <h1 class="font-weight-light">404 Not Found</h1>
+                  <h3 class="font-italic text-muted mb-4">Sorry This Page Does't Exist</h3>
+                  
+                  <a class="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0" href="/">
+                      <span class="d-flex align-items-center">
+                          <span>Back To Home</span>
+                      </span>
+                  </a>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
