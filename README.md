@@ -13,6 +13,10 @@
 
 ## Contributing
 
+
+We are preparing this repo. please upload the code in the ```code``` folder according to the available language category. if language is not available, please open our [issue](https://github.com/gemarkode/Codebase/issues/30).
+
+
 Please Read [CONTRIBUTING.md](https://github.com/gemarkode/Codebase/blob/main/CONTRIBUTING.md) Before Contributing.
 
 ## Contributors
