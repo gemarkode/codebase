@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" />
 <img src="https://github.com/gemarkode/Codebase/actions/workflows/pages.yml/badge.svg" alt="CD" />
+<img src="https://img.shields.io/github/repo-size/gemarkode/Codebase" alt="Repo Size" />
 
 </p>
 </div>
