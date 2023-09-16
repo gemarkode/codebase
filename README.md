@@ -1,3 +1,1 @@
-# Migrate
-
-New Repository : https://github.com/rizkytegar/codebase
+# We are stopping this project
